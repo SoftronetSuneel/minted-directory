@@ -6,6 +6,7 @@ export default defineAppConfig({
     logo: "",
     iconLogo: "fluent-emoji-flat:leaf-fluttering-in-wind",
   },
+
   site: {
     // override the general settings for seo tags.
     // leave empty for general priority.
@@ -18,6 +19,7 @@ export default defineAppConfig({
       emoji: "🍃",
     },
   },
+
   directory: {
     search: {
       placeholder: "Search among {0} tools",
@@ -71,6 +73,7 @@ export default defineAppConfig({
         "View all available tools and templates in the {0} category...",
     },
   },
+
   header: {
     banner: {
       show: true,
@@ -96,6 +99,7 @@ export default defineAppConfig({
       href: "/submit",
     },
   },
+
   footer: {
     description: "Best directory for my niche.",
     socials: {
@@ -121,10 +125,17 @@ export default defineAppConfig({
       },
     },
   },
+
   ui: {
     icons: {
       dark: "tabler:moon",
       light: "tabler:sun",
+    },
+  },
+
+  icon: {
+    attrs: {
+      "key-129": "",
     },
   },
 });
