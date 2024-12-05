@@ -24,11 +24,25 @@
     "nuxt": "^3.13.2",
     "posthog-js": "^1.163.0",
     "vue": "^3.5.6",
-    "vue-router": "^4.4.5"
+    "vue-router": "^4.4.5",
+    "@vitejs/plugin-vue": "^4.5.1",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6",
+    "vite": "^5.0.6",
+    "aos": "^3.0.0-beta.6",
+    "swiper": "^8.4.7"
   },
   "devDependencies": {
     "@iconify-json/tabler": "^1.2.5",
-    "@nuxt/icon": "^1.5.1"
+    "@nuxt/icon": "^1.5.1",
+    "@tailwindcss/forms": "^0.5.7",
+    "@tailwindcss/typography": "^0.5.10",
+    "@vitejs/plugin-vue": "^4.5.1",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^3.3.6",
+    "vite": "^5.0.6"
   },
   "packageManager": "pnpm@9.12.2"
 }

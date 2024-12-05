@@ -15,7 +15,7 @@ const layoutName = computed(() => layout.value || 'wide');
 
 <style>
 .dark body {
-  @apply bg-gray-800;
+  @apply bg-slate-900
 }
 
 @keyframes fadeInUp {

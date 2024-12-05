@@ -1,4 +1,6 @@
 import type Emoji from "./components/OgImage/Emoji.vue";
+//import 'aos/dist/aos.css';
+import './components/css/style.css'
 
 export default defineAppConfig({
   general: {

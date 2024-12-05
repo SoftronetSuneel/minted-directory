@@ -10,7 +10,7 @@ const href = computed(() => {
   return "#";
 });
 
-const showBanner = useState('showBanner', () => true);
+const showBanner = useState('showBanner', () => false);
 
 function removeBanner() {
   showBanner.value = false;

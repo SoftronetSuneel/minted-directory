@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: wide
 ---
 
@@ -19,5 +19,5 @@ Here is your starting listings grid 👇
 ::search
 ::
 
-::directory-grid
-::
+::directory-grid -->
+::hero
