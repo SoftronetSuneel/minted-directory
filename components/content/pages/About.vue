@@ -4,13 +4,12 @@
 
     <!-- Page content -->
     <main class="grow">
-
-      <Hero />
+      <HeroAbout/>
       <Story />
       <Team />
       <Recruitment />
-      <Testimonials />
-      <Cta />      
+      <Testimonials02 />
+      <Cta02 />      
 
     </main>
  

@@ -41,9 +41,9 @@
 </template>
 
 <script>
-import Testimonial01 from '../images/testimonial-01.png'
-import Testimonial02 from '../images/testimonial-02.png'
-import Testimonial03 from '../images/testimonial-03.png'
+import Testimonial01 from '../../../images/testimonial-01.png'
+import Testimonial02 from '../../../images/testimonial-02.png'
+import Testimonial03 from '../../../images/testimonial-03.png'
 
 export default {
   name: 'Testimonials02',

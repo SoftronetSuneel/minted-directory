@@ -4,9 +4,9 @@
     <!-- Page content -->
     <main class="grow">
 
-      <Hero />
+      <IntegrationsHero />
       <IntegrationsList />
-      <Cta />
+      <Cta04 />
 
     </main>
 
@@ -15,17 +15,17 @@
 
 <script>
 import Header from '../partials/Header.vue'
-import Hero from '../partials/IntegrationsHero.vue'
+import IntegrationsHero from '../partials/IntegrationsHero.vue'
 import IntegrationsList from '../partials/IntegrationsList.vue'
-import Cta from '../partials/Cta04.vue'
+import Cta04 from '../partials/Cta04.vue'
 
 export default {
   name: 'Integrations',
   components: {
     Header,
-    Hero,
+    IntegrationsHero,
     IntegrationsList,
-    Cta,
+    Cta04,
   },
 }
 </script>

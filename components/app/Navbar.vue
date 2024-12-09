@@ -120,6 +120,12 @@ const routesRef = computed(() => {
             <li>
               <router-link class="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" to="/changelog">Changelog</router-link>
             </li>
+            <li>
+              <router-link class="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" to="/blogs">Blog</router-link>
+            </li>
+            <li>
+              <router-link class="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" to="/help">Help Centre</router-link>
+            </li>
           </ul>
 
         </nav>

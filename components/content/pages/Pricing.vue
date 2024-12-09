@@ -4,8 +4,8 @@
     <!-- Page content -->
     <main class="grow">
 
-      <Hero />
-      <Features />
+      <PricingHero />
+      <Features05 />
       <Customers />
       <Faqs />
       <Cta />
@@ -16,8 +16,8 @@
 </template>
 
 <script>
-import Hero from '../partials/PricingHero.vue'
-import Features from '../partials/Features05.vue'
+import PricingHero from '../partials/PricingHero.vue'
+import Features05 from '../partials/Features05.vue'
 import Customers from '../partials/Customers.vue'
 import Faqs from '../partials/Faqs.vue'
 import Cta from '../partials/Cta.vue'
@@ -25,8 +25,8 @@ import Cta from '../partials/Cta.vue'
 export default {
   name: 'Pricing',
   components: {
-    Hero,
-    Features,
+    PricingHero,
+    Features05,
     Customers,
     Faqs,
     Cta,

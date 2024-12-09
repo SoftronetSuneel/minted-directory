@@ -1,7 +1,7 @@
-<!-- ---
+---
 layout: wide
 ---
-
+<!--
 # This is your brand new directory ! 👋
 
 You can customize this page in markdown.
@@ -20,4 +20,4 @@ Here is your starting listings grid 👇
 ::
 
 ::directory-grid -->
-::hero
+::home

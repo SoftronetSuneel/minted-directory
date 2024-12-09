@@ -8,8 +8,8 @@
         <div class="flex flex-col p-5 h-full">
           <div class="flex items-center space-x-3 mb-3">
             <div class="relative">
-              <img src="../images/integrations-01.svg" width="40" height="40" alt="Icon 01">
-              <img class="absolute top-0 -right-1" src="../images/star.svg" width="16" height="16" alt="Star" aria-hidden="true">
+              <img src="../../../images/integrations-01.svg" width="40" height="40" alt="Icon 01">
+              <img class="absolute top-0 -right-1" src="../../../images/star.svg" width="16" height="16" alt="Star" aria-hidden="true">
             </div>
             <router-link class="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 group-hover:before:absolute group-hover:before:inset-0" to="/integrations-single">Retool</router-link>
           </div>
@@ -18,10 +18,10 @@
           </div>
           <div class="flex justify-between">
             <div class="flex -space-x-3 -ml-0.5">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-01.jpg" width="24" height="24" alt="Avatar 01">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-02.jpg" width="24" height="24" alt="Avatar 02">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-03.jpg" width="24" height="24" alt="Avatar 03">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-04.jpg" width="24" height="24" alt="Avatar 04">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-01.jpg" width="24" height="24" alt="Avatar 01">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-02.jpg" width="24" height="24" alt="Avatar 02">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-03.jpg" width="24" height="24" alt="Avatar 03">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-04.jpg" width="24" height="24" alt="Avatar 04">
             </div>
             <button class="flex items-center space-x-2 font-medium text-sm text-slate-300 hover:text-white transition-colors">
               <span class="sr-only">Like</span>
@@ -37,8 +37,8 @@
         <div class="flex flex-col p-5 h-full">
           <div class="flex items-center space-x-3 mb-3">
             <div class="relative">
-              <img src="../images/integrations-02.svg" width="40" height="40" alt="Icon 02">
-              <img class="absolute top-0 -right-1" src="../images/star.svg" width="16" height="16" alt="Star" aria-hidden="true">
+              <img src="../../../images/integrations-02.svg" width="40" height="40" alt="Icon 02">
+              <img class="absolute top-0 -right-1" src="../../../images/star.svg" width="16" height="16" alt="Star" aria-hidden="true">
             </div>
             <router-link class="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 group-hover:before:absolute group-hover:before:inset-0" to="/integrations-single">Zapier</router-link>
           </div>
@@ -47,9 +47,9 @@
           </div>
           <div class="flex justify-between">
             <div class="flex -space-x-3 -ml-0.5">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-05.jpg" width="24" height="24" alt="Avatar 05">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-06.jpg" width="24" height="24" alt="Avatar 06">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-07.jpg" width="24" height="24" alt="Avatar 07">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-05.jpg" width="24" height="24" alt="Avatar 05">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-06.jpg" width="24" height="24" alt="Avatar 06">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-07.jpg" width="24" height="24" alt="Avatar 07">
             </div>
             <button class="flex items-center space-x-2 font-medium text-sm text-slate-300 hover:text-white transition-colors">
               <span class="sr-only">Like</span>
@@ -65,8 +65,8 @@
         <div class="flex flex-col p-5 h-full">
           <div class="flex items-center space-x-3 mb-3">
             <div class="relative">
-              <img src="../images/integrations-03.svg" width="40" height="40" alt="Icon 03">
-              <img class="absolute top-0 -right-1" src="../images/star.svg" width="16" height="16" alt="Star" aria-hidden="true">
+              <img src="../../../images/integrations-03.svg" width="40" height="40" alt="Icon 03">
+              <img class="absolute top-0 -right-1" src="../../../images/star.svg" width="16" height="16" alt="Star" aria-hidden="true">
             </div>
             <router-link class="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 group-hover:before:absolute group-hover:before:inset-0" to="/integrations-single">Airtable</router-link>
           </div>
@@ -75,10 +75,10 @@
           </div>
           <div class="flex justify-between">
             <div class="flex -space-x-3 -ml-0.5">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-08.jpg" width="24" height="24" alt="Avatar 08">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-09.jpg" width="24" height="24" alt="Avatar 09">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-10.jpg" width="24" height="24" alt="Avatar 10">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-11.jpg" width="24" height="24" alt="Avatar 11">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-08.jpg" width="24" height="24" alt="Avatar 08">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-09.jpg" width="24" height="24" alt="Avatar 09">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-10.jpg" width="24" height="24" alt="Avatar 10">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-11.jpg" width="24" height="24" alt="Avatar 11">
             </div>
             <button class="flex items-center space-x-2 font-medium text-sm text-slate-300 hover:text-white transition-colors">
               <span class="sr-only">Like</span>
@@ -94,8 +94,8 @@
         <div class="flex flex-col p-5 h-full">
           <div class="flex items-center space-x-3 mb-3">
             <div class="relative">
-              <img src="../images/integrations-04.svg" width="40" height="40" alt="Icon 04">
-              <img class="absolute top-0 -right-1" src="../images/star.svg" width="16" height="16" alt="Star" aria-hidden="true">
+              <img src="../../../images/integrations-04.svg" width="40" height="40" alt="Icon 04">
+              <img class="absolute top-0 -right-1" src="../../../images/star.svg" width="16" height="16" alt="Star" aria-hidden="true">
             </div>
             <router-link class="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 group-hover:before:absolute group-hover:before:inset-0" to="/integrations-single">Jira</router-link>
           </div>
@@ -104,10 +104,10 @@
           </div>
           <div class="flex justify-between">
             <div class="flex -space-x-3 -ml-0.5">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-12.jpg" width="24" height="24" alt="Avatar 12">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-13.jpg" width="24" height="24" alt="Avatar 13">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-14.jpg" width="24" height="24" alt="Avatar 14">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-15.jpg" width="24" height="24" alt="Avatar 15">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-12.jpg" width="24" height="24" alt="Avatar 12">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-13.jpg" width="24" height="24" alt="Avatar 13">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-14.jpg" width="24" height="24" alt="Avatar 14">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-15.jpg" width="24" height="24" alt="Avatar 15">
             </div>
             <button class="flex items-center space-x-2 font-medium text-sm text-slate-300 hover:text-white transition-colors">
               <span class="sr-only">Like</span>
@@ -123,8 +123,8 @@
         <div class="flex flex-col p-5 h-full">
           <div class="flex items-center space-x-3 mb-3">
             <div class="relative">
-              <img src="../images/integrations-05.svg" width="40" height="40" alt="Icon 05">
-              <img class="absolute top-0 -right-1" src="../images/star.svg" width="16" height="16" alt="Star" aria-hidden="true">
+              <img src="../../../images/integrations-05.svg" width="40" height="40" alt="Icon 05">
+              <img class="absolute top-0 -right-1" src="../../../images/star.svg" width="16" height="16" alt="Star" aria-hidden="true">
             </div>
             <router-link class="font-semibold bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 group-hover:before:absolute group-hover:before:inset-0" to="/integrations-single">GitLab</router-link>
           </div>
@@ -133,10 +133,10 @@
           </div>
           <div class="flex justify-between">
             <div class="flex -space-x-3 -ml-0.5">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-16.jpg" width="24" height="24" alt="Avatar 16">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-17.jpg" width="24" height="24" alt="Avatar 17">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-18.jpg" width="24" height="24" alt="Avatar 18">
-              <img class="rounded-full border-2 border-slate-800 box-content" src="../images/avatar-19.jpg" width="24" height="24" alt="Avatar 19">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-16.jpg" width="24" height="24" alt="Avatar 16">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-17.jpg" width="24" height="24" alt="Avatar 17">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-18.jpg" width="24" height="24" alt="Avatar 18">
+              <img class="rounded-full border-2 border-slate-800 box-content" src="../../../images/avatar-19.jpg" width="24" height="24" alt="Avatar 19">
             </div>
             <button class="flex items-center space-x-2 font-medium text-sm text-slate-300 hover:text-white transition-colors">
               <span class="sr-only">Like</span>

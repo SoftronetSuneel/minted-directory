@@ -73,7 +73,7 @@
                     </div>
                     <!-- Image -->
                     <div class="relative w-full h-64 md:h-auto overflow-hidden">
-                      <img class="absolute bottom-0 left-1/2 -translate-x-1/2 mx-auto max-w-none md:relative md:left-0 md:translate-x-0" src="../images/feature-image-01.png" width="504" height="400" alt="Feature 01">
+                      <img class="absolute bottom-0 left-1/2 -translate-x-1/2 mx-auto max-w-none md:relative md:left-0 md:translate-x-0" src="../../../images/feature-image-01.png" width="504" height="400" alt="Feature 01">
                     </div>
                   </div>
                 </div>
@@ -97,7 +97,7 @@
                     </div>
                     <!-- Image -->
                     <div class="relative w-full h-64 md:h-auto overflow-hidden md:pb-8">
-                      <img class="absolute bottom-0 left-1/2 -translate-x-1/2 mx-auto max-w-none md:max-w-full md:relative md:left-0 md:translate-x-0" src="../images/feature-image-02.png" width="536" height="230" alt="Feature 02">
+                      <img class="absolute bottom-0 left-1/2 -translate-x-1/2 mx-auto max-w-none md:max-w-full md:relative md:left-0 md:translate-x-0" src="../../../images/feature-image-02.png" width="536" height="230" alt="Feature 02">
                     </div>
                   </div>
                 </div>
@@ -121,7 +121,7 @@
                     </div>
                     <!-- Image -->
                     <div class="relative w-full h-64 md:h-auto overflow-hidden md:pb-8">
-                      <img class="absolute bottom-0 left-1/2 -translate-x-1/2 mx-auto max-w-none md:max-w-full md:relative md:left-0 md:translate-x-0" src="../images/feature-image-03.png" width="230" height="230" alt="Feature 03">
+                      <img class="absolute bottom-0 left-1/2 -translate-x-1/2 mx-auto max-w-none md:max-w-full md:relative md:left-0 md:translate-x-0" src="../../../images/feature-image-03.png" width="230" height="230" alt="Feature 03">
                     </div>
                   </div>
                 </div>

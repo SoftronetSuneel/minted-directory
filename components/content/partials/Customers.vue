@@ -41,15 +41,15 @@
 </template>
 
 <script>
-import CustomerImg01 from '../images/customer-01.jpg'
-import CustomerImg02 from '../images/customer-02.jpg'
-import CustomerImg03 from '../images/customer-03.jpg'
-import CustomerImg04 from '../images/customer-04.jpg'
-import CustomerImg05 from '../images/customer-05.jpg'
-import CustomerImg06 from '../images/customer-06.jpg'
-import CustomerImg07 from '../images/customer-07.jpg'
-import CustomerImg08 from '../images/customer-08.jpg'
-import CustomerImg09 from '../images/customer-09.jpg'
+import CustomerImg01 from '../../../images/customer-01.jpg'
+import CustomerImg02 from '../../../images/customer-02.jpg'
+import CustomerImg03 from '../../../images/customer-03.jpg'
+import CustomerImg04 from '../../../images/customer-04.jpg'
+import CustomerImg05 from '../../../images/customer-05.jpg'
+import CustomerImg06 from '../../../images/customer-06.jpg'
+import CustomerImg07 from '../../../images/customer-07.jpg'
+import CustomerImg08 from '../../../images/customer-08.jpg'
+import CustomerImg09 from '../../../images/customer-09.jpg'
 
 export default {
   name: 'Customers',

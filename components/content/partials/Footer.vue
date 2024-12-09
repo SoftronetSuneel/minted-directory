@@ -12,7 +12,7 @@
               <div class="mb-4">
                 <!-- Logo -->
                 <router-link class="inline-flex" to="/" aria-label="Cruip">
-                  <img src="../images/logo.svg" width="38" height="38" alt="Stellar">
+                  <img src="../../../images/logo.svg" width="38" height="38" alt="Stellar">
                 </router-link>
               </div>
               <div class="text-sm text-slate-300">&copy; Cruip.com <span class="text-slate-500">-</span> All rights reserved.</div>

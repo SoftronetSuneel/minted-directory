@@ -12,7 +12,7 @@
 
     <!-- Illustration -->
     <div class="md:block absolute left-1/2 -translate-x-1/2 -mt-16 blur-2xl opacity-90 pointer-events-none -z-10" aria-hidden="true">
-      <img src="../images/page-illustration.svg" class="max-w-none" width="1440" height="427" alt="Page Illustration">
+      <img src="../../../images/page-illustration.svg" class="max-w-none" width="1440" height="427" alt="Page Illustration">
     </div>
 
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
@@ -27,9 +27,9 @@
             <!-- Particles animation -->
             <Particles class="absolute inset-0 -z-10" :quantity="10" />
             <div class="inline-flex [mask-image:_radial-gradient(circle_at_bottom,transparent_15%,black_70%)]">
-              <img src="../images/about-illustration.svg" width="446" height="446" alt="About illustration" />
+              <img src="../../../images/about-illustration.svg" width="446" height="446" alt="About illustration" />
             </div>
-            <img class="absolute mt-[30%] drop-shadow-lg animate-float" src="../images/about-icon.svg" width="72" height="72" alt="About icon" />
+            <img class="absolute mt-[30%] drop-shadow-lg animate-float" src="../../../images/about-icon.svg" width="72" height="72" alt="About icon" />
           </div>
         </div>
 

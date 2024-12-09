@@ -69,10 +69,10 @@
     <!-- Images -->
     <div class="max-w-[1440px] mx-auto px-4 md:px-0">
       <div class="grid grid-cols-2 md:grid-cols-4 gap-4 lg:gap-6 md:-mx-5">
-        <img class="w-full aspect-[16/10] object-cover rounded-lg" src="../images/recruitment-01.jpg" width="352" height="220" alt="Recruitment 01" />
-        <img class="w-full aspect-[16/10] object-cover rounded-lg" src="../images/recruitment-02.jpg" width="352" height="220" alt="Recruitment 02" />
-        <img class="w-full aspect-[16/10] object-cover rounded-lg" src="../images/recruitment-03.jpg" width="352" height="220" alt="Recruitment 03" />
-        <img class="w-full aspect-[16/10] object-cover rounded-lg" src="../images/recruitment-04.jpg" width="352" height="220" alt="Recruitment 04" />
+        <img class="w-full aspect-[16/10] object-cover rounded-lg" src="../../../images/recruitment-01.jpg" width="352" height="220" alt="Recruitment 01" />
+        <img class="w-full aspect-[16/10] object-cover rounded-lg" src="../../../images/recruitment-02.jpg" width="352" height="220" alt="Recruitment 02" />
+        <img class="w-full aspect-[16/10] object-cover rounded-lg" src="../../../images/recruitment-03.jpg" width="352" height="220" alt="Recruitment 03" />
+        <img class="w-full aspect-[16/10] object-cover rounded-lg" src="../../../images/recruitment-04.jpg" width="352" height="220" alt="Recruitment 04" />
       </div>
     </div>
 

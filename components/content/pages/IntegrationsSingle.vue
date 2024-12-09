@@ -20,7 +20,7 @@
 
         <!-- Illustration -->
         <div class="md:block absolute left-1/2 -translate-x-1/2 -mt-16 blur-2xl opacity-90 pointer-events-none -z-10" aria-hidden="true">
-          <img src="../images/page-illustration.svg" class="max-w-none" width="1440" height="427" alt="Page Illustration">
+          <img src="../../../images/page-illustration.svg" class="max-w-none" width="1440" height="427" alt="Page Illustration">
         </div>
 
         <div class="max-w-6xl mx-auto px-4 sm:px-6">
@@ -51,7 +51,7 @@
                       <article class="pb-12 mb-12 border-b [border-image:linear-gradient(to_right,transparent,theme(colors.slate.800),transparent)1]">
 
                         <figure class="bg-slate-700/20 border border-slate-300/10 p-4 rounded-3xl mb-8">
-                          <img class="w-full rounded-2xl" src="../images/integration-image.png" width="586" height="316" alt="Integration image" />
+                          <img class="w-full rounded-2xl" src="../../../images/integration-image.png" width="586" height="316" alt="Integration image" />
                         </figure>
 
                         <h1 class="sr-only">GitHub</h1>
@@ -78,7 +78,7 @@
                       <aside class="pl-6 border-l-2 border-purple-500">
                         <p class="inline-flex font-medium italic text-lg bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">“ This integration is so perfect it tickles my brain. It ensures that your work is in sync across your entire team. ”</p>
                         <footer class="flex items-center space-x-4">
-                          <img class="shrink-0 rounded-full" src="../images/post-avatar.jpg" width="32" height="32" alt="Author" />
+                          <img class="shrink-0 rounded-full" src="../../../images/post-avatar.jpg" width="32" height="32" alt="Author" />
                           <div class="text-sm font-medium text-slate-300">
                             Mike Hunt <span class="text-slate-700">-</span> <a class="text-purple-500 hover:underline" href="#0">Thunderbolt</a>
                           </div>
@@ -104,8 +104,8 @@
                         <div class="text-center mb-5">
                           <div class="mb-4">
                             <div class="relative inline-flex">
-                              <img src="../images/integrations-08.svg" width="80" height="80" alt="Icon 08" />
-                              <img class="absolute top-0 -right-1" src="../images/star.svg" width="24" height="24" alt="Star" aria-hidden="true" />
+                              <img src="../../../images/integrations-08.svg" width="80" height="80" alt="Icon 08" />
+                              <img class="absolute top-0 -right-1" src="../../../images/star.svg" width="24" height="24" alt="Star" aria-hidden="true" />
                             </div>
                           </div>
                           <button class="btn-sm text-slate-300 hover:text-white transition duration-150 ease-in-out group [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box] relative before:absolute before:inset-0 before:bg-slate-800/70 before:rounded-full before:pointer-events-none">

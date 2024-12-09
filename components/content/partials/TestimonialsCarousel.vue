@@ -27,7 +27,7 @@
                     <div class="absolute inset-0 translate-z-0 rounded-full bg-slate-800 group-[.swiper-slide-active]/slide:bg-purple-500 transition-colors duration-500 ease-in-out blur-[60px]"></div>
                   </div>
                   <div class="flex flex-col p-6 h-full">
-                    <img class="mb-3" src="../images/carousel-icon-01.svg" width="56" height="56" alt="Icon 01">
+                    <img class="mb-3" src="../../../images/carousel-icon-01.svg" width="56" height="56" alt="Icon 01">
                     <div class="grow">
                       <div class="font-bold text-lg mb-1">Anonymous User</div>
                       <div class="text-slate-400 mb-3">Incorporate rich user profiling, and facilitate more transactions.</div>
@@ -47,7 +47,7 @@
                     <div class="absolute inset-0 translate-z-0 rounded-full bg-slate-800 group-[.swiper-slide-active]/slide:bg-purple-500 transition-colors duration-500 ease-in-out blur-[60px]"></div>
                   </div>
                   <div class="flex flex-col p-6 h-full">
-                    <img class="mb-3" src="../images/carousel-icon-02.svg" width="56" height="56" alt="Icon 01">
+                    <img class="mb-3" src="../../../images/carousel-icon-02.svg" width="56" height="56" alt="Icon 01">
                     <div class="grow">
                       <div class="font-bold text-lg mb-1">Bot Detection</div>
                       <div class="text-slate-400 mb-3">Incorporate rich user profiling, and facilitate more transactions.</div>
@@ -67,7 +67,7 @@
                     <div class="absolute inset-0 translate-z-0 rounded-full bg-slate-800 group-[.swiper-slide-active]/slide:bg-purple-500 transition-colors duration-500 ease-in-out blur-[60px]"></div>
                   </div>
                   <div class="flex flex-col p-6 h-full">
-                    <img class="mb-3" src="../images/carousel-icon-03.svg" width="56" height="56" alt="Icon 01">
+                    <img class="mb-3" src="../../../images/carousel-icon-03.svg" width="56" height="56" alt="Icon 01">
                     <div class="grow">
                       <div class="font-bold text-lg mb-1">Social integrations</div>
                       <div class="text-slate-400 mb-3">Incorporate rich user profiling, and facilitate more transactions.</div>
@@ -87,7 +87,7 @@
                     <div class="absolute inset-0 translate-z-0 rounded-full bg-slate-800 group-[.swiper-slide-active]/slide:bg-purple-500 transition-colors duration-500 ease-in-out blur-[60px]"></div>
                   </div>
                   <div class="flex flex-col p-6 h-full">
-                    <img class="mb-3" src="../images/carousel-icon-04.svg" width="56" height="56" alt="Icon 01">
+                    <img class="mb-3" src="../../../images/carousel-icon-04.svg" width="56" height="56" alt="Icon 01">
                     <div class="grow">
                       <div class="font-bold text-lg mb-1">Progressive Profiling</div>
                       <div class="text-slate-400 mb-3">Incorporate rich user profiling, and facilitate more transactions.</div>
@@ -107,7 +107,7 @@
                     <div class="absolute inset-0 translate-z-0 rounded-full bg-slate-800 group-[.swiper-slide-active]/slide:bg-purple-500 transition-colors duration-500 ease-in-out blur-[60px]"></div>
                   </div>
                   <div class="flex flex-col p-6 h-full">
-                    <img class="mb-3" src="../images/carousel-icon-05.svg" width="56" height="56" alt="Icon 05">
+                    <img class="mb-3" src="../../../images/carousel-icon-05.svg" width="56" height="56" alt="Icon 05">
                     <div class="grow">
                       <div class="font-bold text-lg mb-1">Secure Access</div>
                       <div class="text-slate-400 mb-3">Incorporate rich user profiling, and facilitate more transactions.</div>

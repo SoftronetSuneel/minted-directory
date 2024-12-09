@@ -30,12 +30,12 @@
 import Particles from './Particles.vue'
 import Highlighter from './Highlighter.vue'
 import HighlighterItem from './HighlighterItem02.vue'
-import CustomerImg02 from '../images/customer-02.svg'
-import CustomerBg02 from '../images/customer-bg-02.png'
-import CustomerImg03 from '../images/customer-03.svg'
-import CustomerBg03 from '../images/customer-bg-03.png'
-import CustomerImg06 from '../images/customer-06.svg'
-import CustomerBg06 from '../images/customer-bg-06.png'
+import CustomerImg02 from '../../../images/customer-02.svg'
+import CustomerBg02 from '../../../images/customer-bg-02.png'
+import CustomerImg03 from '../../../images/customer-03.svg'
+import CustomerBg03 from '../../../images/customer-bg-03.png'
+import CustomerImg06 from '../../../images/customer-06.svg'
+import CustomerBg06 from '../../../images/customer-bg-06.png'
 
 export default {
   name: 'CustomersList',

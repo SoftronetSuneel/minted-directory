@@ -27,7 +27,7 @@
           </span>
         </p>
         <div class="inline-flex mb-2">
-          <img class="rounded-full" src="../images/customer-avatar-01.jpg" width="32" height="32" alt="Customer Avatar 01" />
+          <img class="rounded-full" src="../../../images/customer-avatar-01.jpg" width="32" height="32" alt="Customer Avatar 01" />
         </div>
         <div class="text-sm font-medium text-slate-300">
           Mike Hunt <span class="text-slate-700">-</span> <a class="text-purple-500 hover:underline" href="#0">Thunderbolt</a>
@@ -41,7 +41,7 @@
           </span>
         </p>
         <div class="inline-flex mb-2">
-          <img class="rounded-full" src="../images/customer-avatar-02.jpg" width="32" height="32" alt="Customer Avatar 02" />
+          <img class="rounded-full" src="../../../images/customer-avatar-02.jpg" width="32" height="32" alt="Customer Avatar 02" />
         </div>
         <div class="text-sm font-medium text-slate-300">
           Mirko Mitt <span class="text-slate-700">-</span> <a class="text-purple-500 hover:underline" href="#0">Mildrink</a>
@@ -56,26 +56,26 @@
 import Particles from './Particles.vue'
 import Highlighter from './Highlighter.vue'
 import HighlighterItem from './HighlighterItem02.vue'
-import CustomerImg01 from '../images/customer-01.svg'
-import CustomerBg01 from '../images/customer-bg-01.png'
-import CustomerImg02 from '../images/customer-02.svg'
-import CustomerBg02 from '../images/customer-bg-02.png'
-import CustomerImg03 from '../images/customer-03.svg'
-import CustomerBg03 from '../images/customer-bg-03.png'
-import CustomerImg04 from '../images/customer-04.svg'
-import CustomerBg04 from '../images/customer-bg-04.png'
-import CustomerImg05 from '../images/customer-05.svg'
-import CustomerBg05 from '../images/customer-bg-05.png'
-import CustomerImg06 from '../images/customer-06.svg'
-import CustomerBg06 from '../images/customer-bg-06.png'
-import CustomerImg07 from '../images/customer-07.svg'
-import CustomerBg07 from '../images/customer-bg-07.png'
-import CustomerImg08 from '../images/customer-08.svg'
-import CustomerBg08 from '../images/customer-bg-08.png'
-import CustomerImg09 from '../images/customer-09.svg'
-import CustomerBg09 from '../images/customer-bg-09.png'
-import CustomerImg10 from '../images/customer-10.svg'
-import CustomerBg10 from '../images/customer-bg-10.png'
+import CustomerImg01 from '../../../images/customer-01.svg'
+import CustomerBg01 from '../../../images/customer-bg-01.png'
+import CustomerImg02 from '../../../images/customer-02.svg'
+import CustomerBg02 from '../../../images/customer-bg-02.png'
+import CustomerImg03 from '../../../images/customer-03.svg'
+import CustomerBg03 from '../../../images/customer-bg-03.png'
+import CustomerImg04 from '../../../images/customer-04.svg'
+import CustomerBg04 from '../../../images/customer-bg-04.png'
+import CustomerImg05 from '../../../images/customer-05.svg'
+import CustomerBg05 from '../../../images/customer-bg-05.png'
+import CustomerImg06 from '../../../images/customer-06.svg'
+import CustomerBg06 from '../../../images/customer-bg-06.png'
+import CustomerImg07 from '../../../images/customer-07.svg'
+import CustomerBg07 from '../../../images/customer-bg-07.png'
+import CustomerImg08 from '../../../images/customer-08.svg'
+import CustomerBg08 from '../../../images/customer-bg-08.png'
+import CustomerImg09 from '../../../images/customer-09.svg'
+import CustomerBg09 from '../../../images/customer-bg-09.png'
+import CustomerImg10 from '../../../images/customer-10.svg'
+import CustomerBg10 from '../../../images/customer-bg-10.png'
 
 export default {
   name: 'CustomersList',

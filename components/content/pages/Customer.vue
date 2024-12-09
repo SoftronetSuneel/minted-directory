@@ -20,7 +20,7 @@
 
         <!-- Illustration -->
         <div class="md:block absolute left-1/2 -translate-x-1/2 -mt-16 blur-2xl opacity-90 pointer-events-none -z-10" aria-hidden="true">
-          <img src="../images/page-illustration.svg" class="max-w-none" width="1440" height="427" alt="Page Illustration">
+          <img src="../../../images/page-illustration.svg" class="max-w-none" width="1440" height="427" alt="Page Illustration">
         </div>
 
         <div class="max-w-6xl mx-auto px-4 sm:px-6">
@@ -41,7 +41,7 @@
                     <header>
                       <h1 class="h2 inline-flex bg-clip-text text-transparent bg-gradient-to-r from-slate-200/60 via-slate-200 to-slate-200/60 pb-4">How Airbnb leverages Stellar X to onboard new hosts</h1>
                       <div class="text-sm flex items-center space-x-4 mb-8">
-                        <img class="rounded-full" src="../images/customer-avatar-03.jpg" width="32" height="32" alt="Customer Avatar 03" />
+                        <img class="rounded-full" src="../../../images/customer-avatar-03.jpg" width="32" height="32" alt="Customer Avatar 03" />
                         <div>
                           <div class="text-slate-300 font-medium">Becky Taylor</div>
                           <div class="text-slate-500">Product Marketing Manager</div>
@@ -115,7 +115,7 @@
                       <div class="px-5 py-6">
                         <div class="mb-5">
                           <div class="flex items-center space-x-4">
-                            <img src="../images/customer-badge.svg" width="64" height="64" alt="Customer badge" />
+                            <img src="../../../images/customer-badge.svg" width="64" height="64" alt="Customer badge" />
                             <div class="text-lg font-semibold text-slate-100">Airbnb Inc.</div>
                           </div>
                         </div>

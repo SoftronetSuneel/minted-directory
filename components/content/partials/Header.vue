@@ -26,10 +26,16 @@
               <router-link class="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" to="/pricing">Pricing</router-link>
             </li>
             <li>
-              <router-link class="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" to="/customers">Customers</router-link>
+              <router-link class="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" to="/Customers1">Customers</router-link>
             </li>
             <li>
               <router-link class="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" to="/changelog">Changelog</router-link>
+            </li>
+            <li>
+              <router-link class="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" to="/blog">Blog</router-link>
+            </li>
+            <li>
+              <router-link class="font-medium text-sm text-slate-300 hover:text-white mx-4 lg:mx-5 transition duration-150 ease-in-out" to="/help">Help Centre</router-link>
             </li>
           </ul>
 

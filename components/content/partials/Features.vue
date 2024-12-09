@@ -5,7 +5,7 @@
       <!-- Illustration -->
       <div class="absolute inset-0 -z-10 -mx-28 rounded-t-[3rem] pointer-events-none overflow-hidden" aria-hidden="true">
         <div class="absolute left-1/2 -translate-x-1/2 top-0 -z-10">
-          <img src="../images/glow-top.svg" class="max-w-none" width="1404" height="658" alt="Features Illustration">
+          <img src="../../../images/glow-top.svg" class="max-w-none" width="1404" height="658" alt="Features Illustration">
         </div>
       </div>
 

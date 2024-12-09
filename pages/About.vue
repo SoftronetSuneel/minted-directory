@@ -1,5 +1,5 @@
 <template>
   <div class="document-driven-page">
-    <LazyAbout></LazyAbout>
+    <About></About>
   </div>
 </template>
